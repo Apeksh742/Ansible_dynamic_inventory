@@ -1,0 +1,4 @@
+---
+# vars file for ec2_instance
+access_key: "123456"
+secret_key: "EnterYourOwnKey" 
